@@ -16,6 +16,10 @@ n r s [n ≤ 101000, r,s ≤ 36]
 ```
 n [reprezentacja liczby n w systemie o podstawie s]
 ```
+### exit
+```
+(input) number to convert [number, start-system, end-system]: exit
+```
 ### przykład
 ```
 (input) number to convert [number, start-system, end-system]: 123 10 16
